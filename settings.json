@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mace.play.hosting",
+    "ip": "127.0.0.1",
     "port": 38249,
     "version": "1.20.1",
     "try-creative": false
